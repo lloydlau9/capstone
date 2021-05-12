@@ -1,4 +1,4 @@
-## Speech Emtion Recognition (SER)
+## Speech Emotion Recognition (SER)
 
 ### Problem Statement
 
