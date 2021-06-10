@@ -1,6 +1,6 @@
 ## Speech Emotion Recognition (SER)
 
-## Executive Summary
+## Executive Summary:
 
 As emotions play a vital role in communication, the detection and analysis of the same is of vital mental importance in today’s digital world of remote communication.  Human emotions can be detected and analysed in numerous way such as audio properties, facial expression, body gesture.
 
@@ -17,13 +17,13 @@ With the insights gathered from using “The Ryerson Audio-Visual Database of Em
 
 ---------------------------------
 
-### Problem Statement
+### Problem Statement:
 
 The objective of this project is to be able to classify and predict emotions via speech reconginition with a reasonable accuracy in order to improve the value of customer relationships, the quality of interactions between agents and customers as well as it's functionality as an actionable business intelligence tool for call centres.
 
 ---------------------------------
 
-### Datasets
+### Datasets:
 
 #### (RAVDESS) Dataset
 
@@ -58,7 +58,7 @@ Applied Support Vector Machines (SVM) and Convolutional neural networks (1D-CNN 
 
 ---------------------------------
 
-## Conclusion & Recommendations
+### Conclusion & Recommendations:
 
 CNN-2D (MFCC) without data augmentation did the best at 57.4%. With this model developed, accuracy is definitely strengthened and hence predictability will be enhanced. 
 
@@ -66,4 +66,8 @@ Other applications can also be further developed to adapt to real time scenarios
 
 Further exploration with additional features to analyse other speech variations such as other data augmentation to be implemented
  
+### References:
 
+https://towardsdatascience.com/speech-emotion-recognition-using-ravdess-audio-dataset-ce19d162690 [1]
+
+Neethu Sundarprasad, SPEECH EMOTION DETECTION USING MACHINE LEARNING TECHNIQUES, San Jose State University, Spring 2018 [2]
