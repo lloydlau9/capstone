@@ -15,9 +15,13 @@ It improves the functionality of call centres, providing targeted coaching and a
 
 With the insights gathered from using “The Ryerson Audio-Visual Database of Emotional Speech and Song” (RAVDESS) & "Crowd Sourced Emotional Multimodal Actors Dataset" (CREMA-D) datasets, the approach of using Speech Emotion Recognition (SER) system is to base on the features extracted and obtained by Mel-frequency cepstral coefficient (MFCC) spectrograms where the frequency can match more closely to what the human ear can hear.
 
+---------------------------------
+
 ### Problem Statement
 
 The objective of this project is to be able to classify and predict emotions via speech reconginition with a reasonable accuracy in order to improve the value of customer relationships, the quality of interactions between agents and customers as well as it's functionality as an actionable business intelligence tool for call centres.
+
+---------------------------------
 
 ### Datasets
 
@@ -34,6 +38,7 @@ CREMA-D is a data set of 7,442 original clips from 91 actors. These clips were f
 
 https://www.kaggle.com/ejlok1/cremad
 
+---------------------------------
 
 ### Modelling:
 
@@ -50,6 +55,8 @@ Applied Support Vector Machines (SVM) and Convolutional neural networks (1D-CNN 
 |CNN-2D (MFCC)|No|57.40%|
 |CNN-2D (Log Mel-Spectrogram)|Yes|53.40%|
 |CNN-2D (Log Mel-Spectrogram)|No|54.40%|
+
+---------------------------------
 
 ## Conclusion & Recommendations
 
