@@ -66,8 +66,13 @@ Other applications can also be further developed to adapt to real time scenarios
 
 Further exploration with additional features to analyse other speech variations such as other data augmentation to be implemented
  
+---------------------------------
+
 ### References:
 
-https://towardsdatascience.com/speech-emotion-recognition-using-ravdess-audio-dataset-ce19d162690 [1]
+[1] Neethu Sundarprasad, Speech Emotion Detection Using Machine Learning Techniques, San Jose State University, accessed Spring 2018 
 
-Neethu Sundarprasad, SPEECH EMOTION DETECTION USING MACHINE LEARNING TECHNIQUES, San Jose State University, Spring 2018 [2]
+[2] Eu Jin Lo, Speech-Emotion-Analyzer, https://github.com/ejlok1/Speech-Emotion-Analyzer, accessed 2019
+
+[3] Muriel Kosaka, Speech Emotion Recognition Using RAVDESS Audio Dataset, https://towardsdatascience.com/speech-emotion-recognition-using-ravdess-audio-dataset-ce19d162690 , accessed October 2020
+
