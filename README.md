@@ -19,7 +19,7 @@ With the insights gathered from using “The Ryerson Audio-Visual Database of Em
 
 ### Problem Statement:
 
-The objective of this project is to be able to classify and predict emotions via speech reconginition with a reasonable accuracy in order to improve the value of customer relationships, the quality of interactions between agents and customers as well as it's functionality as an actionable business intelligence tool for call centres.
+The objective of this project is to be able to classify and predict emotions via speech recognition with a reasonable accuracy in order to improve the value of customer relationships, the quality of interactions between agents and customers as well as its functionality as an actionable business intelligence tool for call centres.
 
 ---------------------------------
 
